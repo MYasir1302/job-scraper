@@ -47,7 +47,7 @@ Edit `.env`:
 
 ```env
 CREDENTIALS_FILE=credentials.json   # path to your downloaded JSON key
-SHEET_ID=1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgVE2upms   # from your Sheet URL
+SHEET_ID=Paste_Your_Sheet_ID   # from your Sheet URL
 ```
 
 ### 4. Run it
